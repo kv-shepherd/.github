@@ -1,22 +1,8 @@
-# Default Community Health Files
+# KubeVirt Shepherd organization profile
 
-This repository contains organization-wide default community health files for the **kv-shepherd** organization.
+This repository maintains the public profile and community information for **KubeVirt Shepherd (kv-shepherd)**.
 
-## Contents
+- [`profile/README.md`](profile/README.md) appears on the [kv-shepherd organization overview](https://github.com/kv-shepherd).
+- The [main Shepherd repository](https://github.com/kv-shepherd/shepherd) contains the application, documentation and project-specific contribution, conduct, security and license information.
 
-- `profile/README.md` — Organization profile displayed on [github.com/kv-shepherd](https://github.com/kv-shepherd)
-
-## Health Files Inheritance
-
-Repositories in this organization will inherit the following files from the main [shepherd](https://github.com/kv-shepherd/shepherd) repository:
-
-- `CODE_OF_CONDUCT.md`
-- `CONTRIBUTING.md`
-- `SECURITY.md`
-- `LICENSE`
-
-## Resources
-
-- [Main Repository](https://github.com/kv-shepherd/shepherd)
-- [Documentation](https://github.com/kv-shepherd/shepherd/tree/main/docs)
-- [ADRs](https://github.com/kv-shepherd/shepherd/tree/main/docs/adr)
+[KubeVirt Shepherd official website](https://kv-shepherd.io/) · [KubeVirt Shepherd 中文官网](https://kv-shepherd.io/zh/)
